@@ -1,0 +1,7 @@
+INSTALLATION
+1-) Ebteda Script Ra Upload Konid
+2-) CHMOD (Dastrasi) Folder " Avatars " ra 777 Konid
+3-) File fb.php ra baz konid va ghesmate Appid va Secret codes ra ba "Facebook App ID & App Secret" Khod dar facebook.com Avaz Konid (baraye Mojavez Dadane Facebook.com be site shoma)
+4-) Tamam shod!
+
+Lotfan link www.persianscript.ir ra hazf nakonid !
